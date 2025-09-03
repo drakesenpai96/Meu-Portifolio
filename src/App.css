@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Days+One&family=Saira+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body{
+  margin: 0;
+  background-color: #090A0C;
+  color: #FFFFFF;
+}
+
+.navbar-font{
+  font-family: "Albert Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 'regular';
+  font-style: normal;
+  font-size: 15pt
+}
+
+.intro-titulo{
+  font-family: "Days One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 45pt;
+}
+
+.intro-font{
+  font-family: "Albert Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 'regular';
+  font-style: normal;
+  font-size: 25pt
+}
+
+.about-font{
+  font-family: "Albert Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 'regular';
+  font-style: normal;
+  font-size: 15pt
+}
+
+.about-title{
+  font-family: "Days One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 65pt;  
+}
+
+.about-font-bold{
+  font-family: "Albert Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 15pt
+}
+
+.works-title{
+  font-family: "Albert Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 30pt;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.699);
+}
+
+.works-font{
+  font-family: "Albert Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 'regular';
+  font-style: normal;
+  font-size: 25pt
+}
+
+.works-shadow{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
