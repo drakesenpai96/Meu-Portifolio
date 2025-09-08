@@ -8,7 +8,7 @@ function Intro({}){
         <div className='bg-[#1E1C1C] flex items-center h-[550px] overflow-hidden'>
             <div className='w-[50%] flex flex-col items-center justify-center'>
                 <div className='p-14'>
-                    <span className='intro-titulo'>Isaac B. Silva</span>
+                    <span className='text-[4vw] font-extrabold uppercase leading-none text-white'>Isaac B. Silva</span>
                 </div>
                 <div className='flex flex-col items-center'>
                     <span className='intro-font'>Fullstack Developer</span>
